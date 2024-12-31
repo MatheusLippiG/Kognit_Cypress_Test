@@ -6,7 +6,7 @@ Este teste automatizado foi criado para verificar se as funcionalidades do site 
 
 URLs testadas:
 
-https://www.kognit.com.br/
+https://www.kognit.com.br/  e 
 https://www.kognit.com.br/contato
 
 Foram realizados testes básicos, clicando nas funcionalidades do menu do site da empresa KOGNIT, utilizando CYPRESS.
